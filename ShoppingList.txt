@@ -3,3 +3,6 @@ Shopping List:
 Apples
 Bananas
 Chocolate
+Radishes
+Cucumbers
+Milk
